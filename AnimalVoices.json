@@ -4,21 +4,21 @@
       {
 		  
         "BannerAd": "max",
-        "InterstitialAd": "facebook",
-        "NativeAd": "admob",
+        "InterstitialAd": "max",
+        "NativeAd": "max",
 		
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-	      "OpenAdmob": "ca-app-pub-3940256099942544/3419835294",
+        "BannerAdmob": "ca-app-pub-8276813490498362/1713928305",
+        "InterAdmob":  "ca-app-pub-8276813490498362/9400846633",
+        "NativeAdmob": "ca-app-pub-8276813490498362/4440201980",
+	"OpenAdmob": "ca-app-pub-8276813490498362/8364518010",
 	      
 	      "FanBanner": "IMG_16_9_APP_INSTALL#466176475493393_466176845493356",
         "FanInter": "CAROUSEL_IMG_SQUARE_APP_INSTALL#466176475493393_466177972159910",
         "FanNative": "IMG_16_9_APP_INSTALL#466176475493393_466753815435659",
 		
-		"MaxBanner" : "YOUR_AD_UNIT_ID",
-		"MaxInter" :  "YOUR_AD_UNIT_ID",
-		"MaxNative" : "YOUR_AD_UNIT_ID",
+		"MaxBanner" : "50982c3d0a26fcd8",
+		"MaxInter" :  "0f0903bdab67a9d1",
+		"MaxNative" : "363f22806e72a9e9",
 		
         "Cpa": false,
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
